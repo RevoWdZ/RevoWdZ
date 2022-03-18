@@ -2,8 +2,8 @@
 
 Determined and ambitious IT Administrator from Poland. In my spare time I'm busy weightlifting :muscle:, playing basketball :basketball:
 and video games :video_game:. Currently working for Seth Software as Junior IT Administrator
-- 🌱 I am currently expanding my knowledge of Linux Apache and Nginx services
-- :blue_book: challenge for 2022: learn Linux system administration, FortiGate security and SQL.
+- 🌱 I am currently expanding my knowledge of Linux system administration, cloud and virtualization as well as python automation. 
+- :blue_book: challenge for 2022: learn Linux system administration, python automation and cloud.
 - 💬 Ask me about everything!
 
 ### Tools:
