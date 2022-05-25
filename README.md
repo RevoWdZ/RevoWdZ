@@ -11,3 +11,4 @@ and video games :video_game:. Currently working for Seth Software as Junior IT A
 <img align="left" alt="Cisco" width="72px" src="https://logos-world.net/wp-content/uploads/2021/08/Cisco-Logo.png" />
 <img align="left" alt="MikroTik" width="72px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/MikroTik_logo.svg/1280px-MikroTik_logo.svg.png" />
 <img align="left" alt="Windows" width="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/88px-Windows_logo_-_2012.svg.png" />
+<img align="left" alt="Fortinet" width="148px" src="https://www.chesterinc.com/wp-content/uploads/2016/01/Fortinet-logo.png"/>
